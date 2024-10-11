@@ -1,5 +1,3 @@
-
-
 # Mayla Bisacchi
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbisacchi_@hotmail.com) 
@@ -12,6 +10,7 @@
 - 🎓 University of São Paulo (USP) - MBA Data science and analytics (In progress)
 
 ## 🖥 Skills
+
 #### 🖥 Languages
 ![Java](https://img.shields.io/badge/java-87a8f0?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-87a8f0?style=for-the-badge&logo=javascript&logoColor=white)
